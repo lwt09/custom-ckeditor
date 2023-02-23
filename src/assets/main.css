@@ -1,0 +1,14 @@
+@import "./base.css";
+@import "./reset.css";
+
+/* @import "./assets/base.scss"; */
+/* 引入不进来诶 要用vite.config.js全局注册到
+scss: {
+    additionalData: '@import "src/assets/styles/var.scss";'
+}
+*/
+html,
+body,
+#app {
+  height: 100%;
+}
