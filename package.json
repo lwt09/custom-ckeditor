@@ -1,5 +1,5 @@
 {
-  "name": "customer-ckeditor",
+  "name": "custom-ckeditor",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

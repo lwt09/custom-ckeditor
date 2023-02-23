@@ -1,4 +1,13 @@
-# customer-ckeditor
+
+
+
+# custom-ckeditor
+## components
+The component in `src/components/Ckeditor.vue` is a easy demo while learning ckeditor.
+## resource-read
+[learning article](https://juejin.cn/post/7203268889463095333)
+
+# vite desc
 
 This template should help get you started developing with Vue 3 in Vite.
 
